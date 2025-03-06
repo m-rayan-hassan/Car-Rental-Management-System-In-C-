@@ -1,0 +1,15 @@
+ID	Name			Reg No		Transmission		Engine		Model		Rent Per Day
+
+1	Toyota Corolla		ABC-1234	Automatic		1800cc		2022		5000 PKR
+2	Suzuki Alto		DEF-5678	Manual			660cc		2021		2500 PKR
+5	Hyundai Elantra		MNO-1415	Automatic		1600cc		2023		5500 PKR
+7	Toyota Vitz		STU-1819	Automatic		1000cc		2021		4000 PKR
+8	Suzuki WagonR		VWX-2021	Manual			1000cc		2022		3500 PKR
+10	Toyota Hilux		BCD-2526	Automatic		2800cc		2021		8000 PKR
+15	Toyota Prius		QRS-3536	Automatic		1800cc		2022		6000 PKR
+16	Honda Accord		TUV-3738	Automatic		2400cc		2020		8500 PKR
+20	Suzuki Alto		ABC-XYZ		Automatic		6600		2009		5000 PKR
+22	Toytoa Parado		ABC-345		Automatic		2500cc		2020		15000 PKR
+19	Toyota Fortuner		CDE-4344	Automatic		2700cc		2023		9500 PKR	
+9	Honda City		YZA-2324	Automatic		1300cc		2023		5000 PKR	
+4	Kia Sportage		JKL-1213	Automatic		2000cc		2022		7000 PKR

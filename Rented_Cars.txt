@@ -1,0 +1,8 @@
+ID	Name			Reg No		Transmission		Engine		Model		Rent Per Day
+	
+11	Nissan Dayz		EFG-2728	Manual			660cc		2020		3000 PKR	
+12	Kia Picanto		HIJ-2930	Automatic		1000cc		2021		4000 PKR	
+13	Hyundai Tucson		KLM-3132	Automatic		2000cc		2023		7500 PKR	
+14	Suzuki Cultus		NOP-3334	Manual			1000cc		2022		3500 PKR	
+17	Mitsubishi Pajero	WXY-3940	Automatic		3200cc		2021		9000 PKR	
+18	Suzuki Swift		ZAB-4142	Manual			1200cc		2022		4000 PKR	
